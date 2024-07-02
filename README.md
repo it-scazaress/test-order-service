@@ -1,4 +1,4 @@
-# Order Service
+# Order Service using Hexagonal Architecture. 
 
 ## Pasos para Configurar y Ejecutar el Proyecto
 
