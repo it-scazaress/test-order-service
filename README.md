@@ -5,8 +5,8 @@
 ### 1. Clonar el Repositorio
 
 
-### 2. Configurar el Repositorio con Java Corretto 17
-Asegúrate de tener Java Corretto 17 instalado y configurado en tu entorno.
+### 2. Configurar el Repositorio con Java Corretto 17 (preferente)
+Asegúrate de tener Java Corretto 17 instalado y configurado en tu entorno. (Puede utilizarse otra versión de JAVA 17)
 
 ### 3 Configurar el IDE
 Configura tu IDE con un perfil de ejecución local, si no puedes ver el botón de RUN, `OrderserviceApplication`,  contiene el método `main` de la aplicación.
