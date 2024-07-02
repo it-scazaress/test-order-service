@@ -19,8 +19,8 @@ Si deseas ejecutar el servicio completo, sigue estos pasos:
 3. Ejecuta el siguiente comando para iniciar los servicios necesarios, incluyendo una instancia de MySQL para pruebas:
 
     docker-compose up
-Si solo deseas ejecutar las pruebas unitarias, sigue estos pasos:
 
+Si solo deseas ejecutar las pruebas unitarias, sigue estos pasos:
 ### 5.1 Ejecutar las Pruebas Unitarias
 Si solo deseas ejecutar las pruebas unitarias, sigue estos pasos:
 
